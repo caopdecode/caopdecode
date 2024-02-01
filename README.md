@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hi, I'm Camilo Osorio Páez 👋
 
+<img src = "https://i.imgur.com/IiwHw2k.jpg"/>
+
+### About Me
+- 🔎 Looking for help people with data.
+- 📊 Recently obtained the Google Data Analytics Professional Certificate.
+- 🎥 Currently studying Multimedia Engineering. I'm in 7th Semester.
+- ✏ Passionate in constantly learning.
+- 🧠 Currently learning Machine Learning.
 <!--
 **caopdecode/caopdecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
