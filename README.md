@@ -8,6 +8,11 @@
 - 🎥 Currently studying Multimedia Engineering. I'm in 8th Semester.
 - ✏ Passionate in constantly learning.
 - 🧠 Currently learning Machine Learning.
+
+### Projects
+- <a href="">Java</a>
+- <a href="">Web</a>
+- <a href="">Apps</a>
 <!--
 **caopdecode/caopdecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
