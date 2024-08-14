@@ -5,7 +5,7 @@
 ### About Me
 - 🔎 Looking for help people with data.
 - 📊 Recently obtained the Google Data Analytics Professional Certificate.
-- 🎥 Currently studying Multimedia Engineering. I'm in 7th Semester.
+- 🎥 Currently studying Multimedia Engineering. I'm in 8th Semester.
 - ✏ Passionate in constantly learning.
 - 🧠 Currently learning Machine Learning.
 <!--
