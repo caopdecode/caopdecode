@@ -10,7 +10,7 @@
 - 🧠 Currently learning Machine Learning.
 
 ### Projects
-- <a href="">Java</a>
+- <a href="https://github.com/caopdecode/Java-Projects">Java</a>
 - <a href="">Web</a>
 - <a href="">Apps</a>
 <!--
