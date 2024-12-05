@@ -10,11 +10,11 @@
 - 🧠 Currently learning Machine Learning.
 
 ### Projects
-- <a href="https://kaggle.com/caopdecode">Data</a>
-- <a href="https://github.com/caopdecode/Java-Projects">Java</a>
-- <a href="https://github.com/caopdecode/Web-Projects/">Web</a>
-- <a href="https://github.com/caopdecode/Mobile-Apps">Mobile Apps</a>
-- <a href="https://github.com/caopdecode/Cpp-projects">C++</a>
+- <a href="https://kaggle.com/caopdecode" target = "_blank">Data</a>
+- <a href="https://github.com/caopdecode/Java-Projects" target = "_blank">Java</a>
+- <a href="https://github.com/caopdecode/Web-Projects/" target = "_blank">Web</a>
+- <a href="https://github.com/caopdecode/Mobile-Apps" target = "_blank">Mobile Apps</a>
+- <a href="https://github.com/caopdecode/Cpp-projects" target = "_blank">C++</a>
 
 <!--
 **caopdecode/caopdecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
