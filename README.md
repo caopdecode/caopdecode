@@ -3,17 +3,19 @@
 <img src = "https://i.imgur.com/IiwHw2k.jpg"/>
 
 ### About Me
-- 🔎 Looking for help people with data.
+- 🔎 Looking for helping people with data.
 - 📊 Recently obtained the Google Data Analytics Professional Certificate.
 - 🎥 Currently studying Multimedia Engineering. I'm in 8th Semester.
 - ✏ Passionate in constantly learning.
 - 🧠 Currently learning Machine Learning.
 
 ### Projects
+- <a href="https://kaggle.com/caopdecode">Data</a>
 - <a href="https://github.com/caopdecode/Java-Projects">Java</a>
 - <a href="https://github.com/caopdecode/Web-Projects/">Web</a>
 - <a href="https://github.com/caopdecode/Mobile-Apps">Mobile Apps</a>
 - <a href="https://github.com/caopdecode/Cpp-projects">C++</a>
+
 <!--
 **caopdecode/caopdecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
