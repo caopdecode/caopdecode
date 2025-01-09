@@ -3,14 +3,12 @@
 <img src = "https://i.imgur.com/IiwHw2k.jpg"/>
 
 ### About Me
-- 🔎 Looking for helping people with data.
-- 📊 Recently obtained the Google Data Analytics Professional Certificate.
-- 🎥 Currently studying Multimedia Engineering. I'm in 8th Semester.
-- ✏ Passionate in constantly learning.
-- 🧠 Currently learning Machine Learning.
+- 💻 Software Engineer with 2 years of experience.
+- 🎥 Currently studying Multimedia Engineering. I'm in 9th Semester.
+- 🤓 Passionate in constantly learning.
+- 🧠 Currently learning Java - React.
 
 ### Projects
-- <a href="https://kaggle.com/caopdecode" target = "_blank">Data</a>
 - <a href="https://github.com/caopdecode/Java-Projects" target = "_blank">Java</a>
 - <a href="https://github.com/caopdecode/Web-Projects/" target = "_blank">Web</a>
 - <a href="https://github.com/caopdecode/Mobile-Apps" target = "_blank">Mobile Apps</a>
