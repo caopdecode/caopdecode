@@ -6,7 +6,7 @@
 - 💻 Software Engineer with 2 years of experience.
 - 🎥 Currently studying Multimedia Engineering. I'm in 9th Semester.
 - 🤓 Passionate in constantly learning.
-- 🧠 Currently learning Java - React.
+- 🧠 Currently learning React.
 
 ### Projects
 - <a href="https://github.com/caopdecode/Java-Projects" target = "_blank">Java</a>
