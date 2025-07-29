@@ -3,10 +3,10 @@
 <img src = "https://i.imgur.com/IiwHw2k.jpg"/>
 
 ### About Me
-- 💻 Software Engineer with 2 years of experience.
-- 🎥 Currently studying Multimedia Engineering. I'm in 9th Semester.
+- 💻 Software Developer with 3 years of experience.
+- 🎥 Currently studying Multimedia Engineering. I'm in 10th Semester.
 - 🤓 Passionate in constantly learning.
-- 🧠 Currently learning React.
+- 🧠 Currently learning AI.
 
 ### Projects
 - <a href="https://github.com/caopdecode/Java-Projects" target = "_blank">Java</a>
