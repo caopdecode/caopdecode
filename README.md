@@ -1,6 +1,6 @@
 # Hi, I'm Camilo Osorio Páez 👋
 
-<img src = "https://i.imgur.com/IiwHw2k.jpg"/>
+<img src = "https://imgur.com/olCd0Mq"/>
 
 ### About Me
 - 💻 Software Developer with 3 years of experience.
